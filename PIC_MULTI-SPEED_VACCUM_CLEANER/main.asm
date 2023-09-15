@@ -1,4 +1,4 @@
-
+#include "p16F676.inc"
 
 __CONFIG _FOSC_INTRCIO & _WDTE_ON & _PWRTE_OFF & _MCLRE_ON & _BOREN_ON & _CP_OFF & _CPD_OFF
 
